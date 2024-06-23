@@ -24,7 +24,7 @@
 
 **О структуре проекта:**
 * [ExchangeRates.csv](./ExchangeRates.csv) - файл с данным о курсах валют
-* [Plotly_diagrams](./Plotly_diagrams) - папка с диаграммами Plotly в формате html
+* [Plotly_diagrams](./Plotly_diagrams) - папка с диаграммами Plotly в формате html. Для просмотра интерактивных графиков в браузере необходимо cкачать raw file и открыть его.
 * [Project-1._Ноутбук-шаблон.ipynb](./Project-1._Ноутбук-шаблон.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
 
 
